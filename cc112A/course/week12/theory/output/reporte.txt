@@ -1,0 +1,12 @@
+REPORTE DE NOTAS
+Ana
+  Notas    :18 12 19
+  Promedio :16.3333
+Luis
+  Notas    :14 13 15
+  Promedio :14
+Maria
+  Notas    :20 18 19
+  Promedio :19
+*********************
+Promedio del curso: 16.4444

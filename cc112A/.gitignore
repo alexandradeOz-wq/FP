@@ -1,0 +1,24 @@
+﻿# Compilados /binarios
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# Carpeta de compilacion
+build/
+buildasan/
+conf/
+
+
+# Archivos temporales del SO
+.DS_Store
+Thumbs.db
+
+# Logs /outputs
+*.Logs
+*.tmp
+
+# Configuracion de editores
+.vscode/
+
